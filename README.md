@@ -2,6 +2,8 @@
 
 Real-time American Sign Language (ASL) alphabet recognition using hand landmarks.
 
+**Status:** Public · **License:** MIT
+
 ## 🎯 Features
 
 - **Real-time ASL Recognition**: Recognizes A-Z hand signs via webcam
@@ -150,3 +152,8 @@ This makes recognition robust across different environments.
 ## 👥 Author
 
 Academic Project - 2024
+Dataset link - https://www.kaggle.com/datasets/grassknoted/asl-alphabet/code/data
+
+## License
+
+This project is available under the [MIT License](LICENSE).
